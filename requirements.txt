@@ -81,7 +81,7 @@ python-dotenv==0.20.0
 python-multipart==0.0.5
 python-socks==2.0.3
 pytz==2022.1
-pywin32==303
+
 pywinpty==2.0.5
 PyYAML==6.0
 pyzmq==23.1.0
